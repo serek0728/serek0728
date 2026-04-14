@@ -1,16 +1,48 @@
-## Hi there 👋
+<p align="center">
+  <img src="banner.png" />
+</p>
 
-<!--
-**serek0728/serek0728** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">serek0728</h1>
+<h3 align="center">Frontend Developer in progress 🚀</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FFA500&size=24&center=true&vCenter=true&width=600&lines=Building+modern+web+apps;Learning+JavaScript+everyday;Future+Frontend+Developer" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About me
+
+- 💻 Skupiam się na frontendzie  
+- 🚀 Tworzę własne projekty i rozwijam skill  
+- 🌱 Uczę się JavaScript i web developmentu  
+- 🎯 Cel: pierwsza praca jako developer  
+
+---
+
+## ⚙️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,html,css,git,react" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=serek0728&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Projects
+
+- 📝 ToDo App – aplikacja do zarządzania zadaniami  
+- 🎮 JavaScript Game – interaktywna gra  
+
+---
+
+## ⚡ Fun fact
+
+Najlepiej kodzę wieczorem 🌙 + muzyka 🎧 = full focus
